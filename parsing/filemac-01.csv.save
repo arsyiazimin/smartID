@@ -1,0 +1,13 @@
+CH  5 ][ Elapsed: 3 mins ][ 2016-11-23 09:10                                         
+                                                                                                                                                                                         
+ BSSID              PWR Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                                                                                                                         
+                                                                                                                                   
+BSSID,              First time seen,     Last time seen,     channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+E4:8D:8C:ED:BD:A3, 2016-11-23 09:01:52,  2016-11-24 09:09:06,  1,      54, WPA2 WPA, CCMP,PSK,-67,9423,37,   0.  0.  0.  0,12, SmartID_Team, 
+
+Station MAC,       First time seen,      Last time seen,     Power, # packets, BSSID, Probed ESSIDs,,,,,,,,
+D8:9E:3F:32:FA:41, 2016-11-23 09:01:58, 2016-11-23 09:02:33, -40,91,  E4:8D:8C:ED:BD:A3,
+10:08:B1:44:C0:AD, 2016-11-23 09:02:58, 2016-11-23 09:04:33, -40,91,  E4:8D:8C:ED:BD:A3,
+10:08:B1:44:C0:AB, 2016-11-23 09:02:58, 2016-11-30 10:08:33, -40,91,  E4:8D:8C:ED:BD:A3,
+A8:1B:5A:48:FE:1D, 2016-11-23 09:01:58, 2016-11-30 10:08:33, -40,91,  E4:8D:8C:ED:BD:A3,
